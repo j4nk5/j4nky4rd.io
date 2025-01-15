@@ -7,8 +7,10 @@ title = 'At Last Online'
 After many hours of my head trying to get around this my first site is officially </br>
 
 <h4> UP AND RUNNING </h4>
- 
-Λέω ωστόσο να μην γράφω μόνο Αγγλικά καθώς ο δημιουργός δεν την έχει για μητρική του.
+
+Και πλέον όχι locally. Μας φιλοξενεί ο καλός οικοδεσπότης του github.
+
+Αφού το Α είπαν να μην γράφω μόνο Αγγλικά καθώς ο δημιουργός δεν την έχει για μητρική του.
 
 But only time will tell
 
