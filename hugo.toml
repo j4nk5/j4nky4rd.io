@@ -1,11 +1,11 @@
-title = "The jankyard"
+title = "Το μουράγιο"
 baseURL = 'j4nk5.github.io'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
 
 # This defines how dates are formatted
-defaultContentLanguage = "en-gb"
+defaultContentLanguage = "el-gr"
 
 # Enable emojis globally
 enableEmoji = true

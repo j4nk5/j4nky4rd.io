@@ -1,15 +1,16 @@
 ---
 title: About
-description: ' A rusty old jankyard made to store everything my old mind want to share'
+description: 'Το Μουράγιο που αφήνω την βάρκα μου κάθε βράδυ μετά από το πολύπαθο ταξίδι της μέρας'
 Author: J4nk5
 ---
-<h3> Blogging </h2>
+## Blog
 
-A new way to blog with static html . <br>
-I always wanted a way to write my ideas and post them online. 
+Ένας νέος τρόπος blog με στατικό html. 
 
+Πάντοτε με γοήτευε η λογική να γράφω τις ιδέες μου στο ίντερνετ. 
+Ήρθε η ώρα. 
+Το παρόν blog site είναι μια απόπειρα να μάθω καλύτερα να δουλεύω σε markdown τόσο για την σχολή μου όσο και για προγραμματισμό.
 
-The blog is based on hugo with theme:Awesome by Sidharth R (https://hba.sid.one) <br>
+ΤΤο Ψευδώνυμό μου είναι j4nk5 και έφτιαξα το blog με hugo και είναι βασισμένο στο θέμα Awesome του  Sidharth R ([https://hba.sid.one](https://hba.sid.one)) 
 
-
-Hosted on github pages in the j4nky4rd (https://j4nk5.github.io/j4nky4rd.io/)
+Hosted on github pages in the [j4nky4rd](https://j4nk5.github.io/j4nky4rd.io/) 

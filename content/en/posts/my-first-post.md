@@ -4,6 +4,6 @@ draft = false
 title = 'Το Πρώτο δοκιμαστικό post'
 +++
 ## Εισαγωγή
-Αυτό είναι το πρώτο μου site φτιαγμένο εξ ολοκλήρου στο λάπτοπ  με *Hugo* και τρέχει **localy!!**
+ Αυτό είναι το πρώτο μου site φτιαγμένο εξ ολοκλήρου στο λάπτοπ  με *Hugo* και τρέχει **localy!!**
 
 Visit the [jankyard](https://j4nk5.github.io) website!

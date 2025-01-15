@@ -3,10 +3,10 @@ date = '2025-01-15T19:47:58+02:00'
 draft = false
 title = 'At Last Online'
 +++
-<h1> My first site is here </h1>
-After many hours of my head trying to get around this my first site is officially </br>
+# My first site is here! 
+Τελικά μου πήρε περισσότερο απο ότι περίμενα αλλάααα...
 
-<h4> UP AND RUNNING </h4>
+##### WE ARE UP AND RUNNING 
 
 Και πλέον όχι locally. Μας φιλοξενεί ο καλός οικοδεσπότης του github.
 
@@ -14,6 +14,6 @@ After many hours of my head trying to get around this my first site is officiall
 
 But only time will tell
 
-*Always Curious , seeking the truth*
+_Πάντοτε περίεργος, αναζητώντας την αλήθεια_
 
 J4nk5
