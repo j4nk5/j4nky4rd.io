@@ -74,12 +74,12 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.en-gb.params]
-  sitename = "The Jankyard"
+  sitename = "Το Μουράγιο"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "A Minimal blog made with hugo to store my jank"
+  description = "Το βραδινό καταφύγιο μιας ταλαιπωρημένης βάρκας"
   mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
@@ -99,9 +99,9 @@ theme = "hugo-blog-awesome"
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "The Jankyard"
+  intro = "To Μουράγιο"
   name = "J4nk5"
-  description = "A Minimal blog made with hugo to store my jank"
+  description = "Το βραδινό καταφύγιο μιας ταλαιπωρημένης βάρκας"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
