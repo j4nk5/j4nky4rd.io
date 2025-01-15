@@ -1,11 +1,11 @@
 title = "Το μουράγιο"
-baseURL = 'j4nk5.github.io'
+baseURL = 'https://j4nk5.github.io/tomoyragio.io/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
 
 # This defines how dates are formatted
-defaultContentLanguage = "el-gr"
+defaultContentLanguage = "en-gb"
 
 # Enable emojis globally
 enableEmoji = true

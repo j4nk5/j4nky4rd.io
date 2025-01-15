@@ -1,6 +1,6 @@
 +++
 date = '2025-01-16T00:14:38+02:00'
-draft = true
+draft = false
 title = 'Zettlr και γλωσσοδέτρες'
 +++
 
